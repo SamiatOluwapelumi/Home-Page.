@@ -1,0 +1,70 @@
+body, html {
+    margin: 0;
+    overflow-x: hidden;
+       font-family: "Poppins", serif;
+}
+* {
+    box-sizing: border-box;
+}
+/* 
+.foot {
+    width: 100%;
+    height: fit-content;
+    background-color: #231f40;
+    border: none;
+    margin-top: 80px;
+    text-align: left;
+    padding: 50px;
+    
+}
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto;
+    
+    
+    
+}
+.rec {
+    display: none;
+}
+
+.grid1 {
+
+    width: 100%;
+    
+}
+.grid2 {
+
+    width: 100%;
+    
+}
+.grid3 {
+
+    width: 100%;
+    margin-top: 100px;
+    
+}
+.grid4 {
+
+    width: 100%;
+    margin-top: 90px;
+    
+}
+
+
+.lform {
+    width: 200px;
+    
+}
+.unform {
+    
+    margin-top: 20px;
+}
+.lpara {
+    
+    margin-bottom:-10px;
+}
+.copyrightb{
+    margin-top: -1px;
+    width: 100%;
+} */
